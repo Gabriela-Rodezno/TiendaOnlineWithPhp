@@ -1,0 +1,28 @@
+{
+    "name": "shophub/tienda-online",
+    "description": "Creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maria Gabriela Henriquez Rodezno",
+            "email": "test@test.test"
+        },
+        {
+            "name": "Kevin Antonio Ventura Mejia",
+            "email": "na@na.na"
+        },
+        {
+            "name": "Mauricio Josue Galan Granadeno",
+            "email": "open@open.open"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "shophub\\":"src/"
+        }
+    }
+}
